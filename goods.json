@@ -1,19 +1,19 @@
 {
   "11292" : {
     "name" : "Кольцо",
-    "cost" : 12,
+    "cost" : 1500,
     "description" : "Кольцо из серебра с фианитом",
     "image" : "images/ring.jpg"
   },
   "11294" : {
     "name" : "Серьги",
-    "cost" : 16,
+    "cost" : 22990,
     "description" : "Серьги из белого золота с бриллиантами",
     "image" : "images/earrings.jpg"
   },
   "11295" : {
     "name" : "Подвека",
-    "cost" : 22,
+    "cost" : 1790,
     "description" : "Подвеска-ключик из серебра",
     "image" : "images/suspension.jpg"
   }
