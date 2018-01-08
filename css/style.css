@@ -1,0 +1,14 @@
+.single-goods {
+    border: 1px solid black;
+    text-align: center;
+}
+.single-goods img{
+    padding: 10px;
+}
+.single-goods button {
+    display: block;
+    margin: 20px auto;
+}
+#goods{
+    margin: 0 auto  ;
+}
